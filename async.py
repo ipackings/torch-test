@@ -1,6 +1,6 @@
-import asyncio
 import time
 import random
+import asyncio
 
 
 def task_sync(s=0):
